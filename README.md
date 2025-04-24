@@ -40,8 +40,8 @@ I believe in continuous improvement and enjoy exploring new technologies, framew
 ## 📫 Let's Connect
 
 - ✉️ Email: rithunlr1@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/rithu-m/) (add your link here)  
-- 🌐 Portfolio / Website: _Coming soon_ (optional)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rithu-m/)
+- 🌐 [Portfolio](https://rithu2000.github.io/Rithu-portfolio/)
 
 ---
 
